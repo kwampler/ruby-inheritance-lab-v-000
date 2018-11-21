@@ -1,3 +1,6 @@
-class Teacher < User
+class Student < User
+
+  
+  
   
 end
